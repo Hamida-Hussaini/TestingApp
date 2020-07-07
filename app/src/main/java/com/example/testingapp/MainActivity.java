@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         if (rocketAnimation instanceof Animatable) {
             ((Animatable)rocketAnimation).start();
         }
+
+        //this is testing
     }
 
     public void sendMessage(View view)
